@@ -1,0 +1,33 @@
+riderModule.iml
+/_ReSharper.Caches/
+# Rider files and folders
+.idea/
+*.sln.iml
+_ReSharper*/
+
+# Visual Studio files and folders
+*.suo
+*.user
+*.ncb
+*.dll
+*.pdb
+obj/
+bin/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]bj/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# MSTest test Results
+TestResults/
+
+# Ignore .vscode folder
+.vscode/
